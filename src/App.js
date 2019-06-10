@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload. Teste no Heroku, parece OK!
+          Edit <code>src/App.js</code> and save to reload. Mateuzinho coisa braba!
         </p>
         <a
           className="App-link"
